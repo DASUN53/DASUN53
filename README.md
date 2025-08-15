@@ -1,4 +1,4 @@
-# ❶ Hi, I'm @DASUN53 👋  
+# ❶ Hi, I'm Dasun Kavinda 👋  
 
 🚀 **A passionate developer exploring the world of code!**  
 
@@ -15,40 +15,34 @@
 
 ---
 
-## **❸ Currently Learning**  
-🎓 **Software Engineering** (with extra "r"s for passion! 😆)  
+## ** Currently Learning**  
+🎓 **Software Engineering Undergraduate** (with extra "r"s for passion! 😆)  
 📚 **Focus Areas:**  
-- **Backend Development** (Express, Django)  
-- **Cloud Computing** (AWS, Docker)  
+- **Fulstack Development**   
+- **Machine learning & AI**   
 - **Data Structures & Algorithms**  
 
 ---
 
-## **❹ Looking to Collaborate On**  
+## ** Looking to Collaborate On**  
 🤝 **Open-source projects** | **Hackathons** | **Innovative web apps**  
 💡 *Got an idea? Let’s build it together!*  
 
 ---
 
-## **❺ How to Reach Me**  
-📧 **Email:** dasun53@example.com  
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dasun53)  
-🐦 **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dasun53)  
+## ** How to Reach Me**  
+📧 **Email:** dasunkavinda366@gmail.com 
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dasun-kavinda-6b948526a)  
 
 ---
 
-## **❻ Pronouns**  
-👨‍💻 **He/Him**  
 
----
-
-## **❼ Fun Fact**  
+## ** Fun Fact**  
 ⚡ *I once wrote a "Hello World" program in 10 different languages in one night!*  
 
 ---
 
-### **🎉 Welcome to My GitHub!**  
-```javascript
+
 console.log("Thanks for visiting! Let's connect 😊");
 
 <!---
