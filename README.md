@@ -1,19 +1,12 @@
-# ❶ Hi, I'm Dasun Kavinda 👋  
+#  Hi, I'm Dasun Kavinda 👋  
 
 🚀 **A passionate developer exploring the world of code!**  
 
 ---
 
-## **❷ Interests & Skills**  
+## ** Interests & Skills**  
 💻 **Coding** | 🌐 **Web Development** | 🤖 **AI & Machine Learning**  
 
-🔧 **Tech Stack:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
----
 
 ## ** Currently Learning**  
 🎓 **Software Engineering Undergraduate** (with extra "r"s for passion! 😆)  
@@ -36,6 +29,13 @@
 
 ---
 
+🔧 **Tech Stack:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+---
 
 ## ** Fun Fact**  
 ⚡ *I once wrote a "Hello World" program in 10 different languages in one night!*  
