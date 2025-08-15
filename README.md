@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dasun Kavinda 
 
-🎓 Software Engineering Undergraduate | 🚀 Passionate Developer | 🌐 Open Source Enthusiast  
+🎓 Software Engineering Undergraduate | 🚀 Passionate Developer 
 
 ---
 
