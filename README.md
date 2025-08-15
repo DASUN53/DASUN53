@@ -42,8 +42,7 @@
 
 ---
 
-
-console.log("Thanks for visiting! Let's connect 😊");
+Thanks for visiting! Let's connect 😊
 
 <!---
 DASUN53/DASUN53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
