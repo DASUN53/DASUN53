@@ -25,9 +25,8 @@
 ## 📚 Currently Learning & Exploring  
 
 - Full Stack Development (MERN Stack)  
-- Machine Learning & AI Algorithms  
-- Advanced Data Structures & Algorithms  
-- Cloud Computing (AWS/GCP)  
+- Machine Learning & AI 
+- Data Structures & Algorithms   
 
 ---
 
