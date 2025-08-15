@@ -1,14 +1,14 @@
 #  Hi, I'm Dasun Kavinda 👋  
 
-🚀 **A passionate developer exploring the world of code!**  
+🚀 **Software Engineering Undergraduate**  
 
 ---
 
-## ** Interests & Skills**  
+##  Interests & Skills 
 💻 **Coding** | 🌐 **Web Development** | 🤖 **AI & Machine Learning**  
 
 
-## ** Currently Learning**  
+## Currently Learning  
 🎓 **Software Engineering Undergraduate** (with extra "r"s for passion! 😆)  
 📚 **Focus Areas:**  
 - **Fulstack Development**   
@@ -17,13 +17,13 @@
 
 ---
 
-## ** Looking to Collaborate On**  
+## Looking to Collaborate On 
 🤝 **Open-source projects** | **Hackathons** | **Innovative web apps**  
 💡 *Got an idea? Let’s build it together!*  
 
 ---
 
-## ** How to Reach Me**  
+## How to Reach Me
 📧 **Email:** dasunkavinda366@gmail.com 
 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/dasun-kavinda-6b948526a](https://www.linkedin.com/in/dasun-kavinda-6b948526a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
@@ -37,7 +37,7 @@
 
 ---
 
-## ** Fun Fact**  
+## Fun Fact 
 ⚡ *I once wrote a "Hello World" program in 10 different languages in one night!*  
 
 ---
