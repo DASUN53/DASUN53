@@ -3,7 +3,7 @@
 🎓 Software Engineering Undergraduate | 🚀 Passionate Developer 
 
 
-![Name Cycle](https://readme-typing-svg.herokuapp.com?font=Fira+Code+**Bold**&size=20&pause=1000&color=00FF00&width=435&lines=Dasun+Kavinda;Software+Engineering+Undergraduate;Full+Stack+Developer;AI%2FML+Explorer)
+![Name Cycle](https://readme-typing-svg.herokuapp.com?font=Fira+Code+**Bold**&size=20&pause=1000&color=00FF00&width=435&lines=Dasun+Kavinda;Software+Engineering+Undergraduate;AI%2FML+Explorer)
 
 ---
 
@@ -16,10 +16,10 @@
 ## 🛠️ Technologies & Tools  
 
 ### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C Programming](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web Development  
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
