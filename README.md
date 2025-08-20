@@ -1,7 +1,6 @@
-# 👋 Hi there, I'm Dasun Kavinda 
+                                                      👋 Hi there, I'm Dasun Kavinda 
 
-🎓 Software Engineering Undergraduate | 🚀 Passionate Developer 
-
+                                     🎓 Software Engineering Undergraduate | 🚀 Passionate Developer 
 
 ![Name Cycle](https://readme-typing-svg.herokuapp.com?font=Fira+Code+**Bold**&size=20&pause=1000&color=00FF00&width=435&lines=Dasun+Kavinda;Software+Engineering+Undergraduate;AI%2FML+Explorer)
 
