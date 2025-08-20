@@ -2,6 +2,11 @@
 
 🎓 Software Engineering Undergraduate | 🚀 Passionate Developer | AI & ML Explorer
 
+## 🙋‍♂️ About Me
+
+- ⚡ M.V.M.D. Dasun Kavinda | St. Joseph Vaz College
+- 🎓 Undergraduate at **Sabaragamuwa University Of Sri Lanka**
+- 💬 Ask me about **Java, Python, SQL**
 
 
 ---
@@ -9,6 +14,8 @@
 ## 🤝 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasun-kavinda-6b948526a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasununimail@gmail.com)
+
 
 ---
 
